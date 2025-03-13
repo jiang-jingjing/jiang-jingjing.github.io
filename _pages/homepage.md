@@ -22,7 +22,7 @@ I am a research group leader of the Computational Optical Imaging Research Group
 
 #### Academic Experiences
 
-|May 2024 - now	|Group leader of the Computational Optical Imaging Research Group, University and University Hospital of Zurich |
+|May 2024 - now	|Group leader of the [Computational Optical Imaging Research Group](https://www.borl.uzh.ch/en/Research/Computational-Optical-Imaging-Research-Group-.html), University and University Hospital of Zurich |
 |Feb. 2022 - now	|[ZNZ junior group leader](https://www.neuroscience.uzh.ch/en/research/biomedical_technology.html#jiang), University and University Hospital of Zurich	|
 |Mar. 2021 - Jan. 2022	|Postdoc at [University of Zurich](https://www.uzh.ch/en.html) 	|
 | Mar. 2016 - Feb. 2021	| Doctoral student at [ETH Zurich](https://ethz.ch/en.html)	|
